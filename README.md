@@ -1,5 +1,7 @@
-# MS-Outlook-Projects
+# Auto-Archive-Outlook
+
 Created on Nov 24 14:36:34 2022
+
 Automate Moving of old Group Emails to into Archive folders and Subfolders. This is only for MS Outlook.
 
 # Objective/Problems
